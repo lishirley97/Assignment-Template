@@ -11,7 +11,7 @@ format:
 ```{r}
 library(data.table)
 library(tidyverse)
-#install.packages('R.utils')
+install.packages('R.utils')
 ```
 
 ```{r}
