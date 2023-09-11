@@ -1,7 +1,9 @@
 ---
-title: "Lab 3"
-format: html
-editor: visual
+title: Lab3
+author: Shirley Li
+format:
+  html:
+    embed-resources: true
 ---
 
 ## Read the data
